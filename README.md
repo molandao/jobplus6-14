@@ -6,4 +6,4 @@ LouPlus Team 14 https://www.shiyanlou.com/louplus/python
 
 * [LouPlus](https://github.com/LouPlus)
 * [vision4fun](https://github.com/vision4fun)
-* [澜心飞嗨](https://github.com/molandao)
+* [澜心飞海](https://github.com/molandao)
